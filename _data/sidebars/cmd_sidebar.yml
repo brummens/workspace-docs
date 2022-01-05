@@ -28,7 +28,7 @@ entries:
       output: web
 
     - title: What is a cloud managed device
-      url: /cmd_What_is_a_cloud_managed_device.html
+      url: /cmd_what_is_a_cloud_managed_device.html
       output: web, pdf
 
     - title: Sample 2
