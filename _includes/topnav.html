@@ -39,7 +39,9 @@
 				
 				{% for entry in topnav.topnav %}
                 {% for item in entry.items %}
-                {% if page.url contains item.url %}
+                {% if item.external_url %}
+                <!-- <li><a href="{{item.external_url}}" target="_blank" rel="noopener">{{item.title}}</a></li> -->
+                {% elsif page.url contains item.url %}
                 <li class="active"><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
                 {% else %}
                 <li><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
