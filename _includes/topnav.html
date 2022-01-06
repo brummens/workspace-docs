@@ -50,6 +50,10 @@
                 {% if site.feedback_disable == null or site.feedback_disable == false %}
 			{% include feedback.html %}
 		{% endif %}
+				<!-- toggle sidebar button -->
+				<li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+				<!-- entries without drop-downs appear here -->
+
                 <!--comment out this block if you want to hide search-->
                 <li>
                     <!--start search-->
@@ -71,9 +75,6 @@
                     </script>
                     <!--end search-->
                 </li>
-				    <!-- toggle sidebar button -->
-					<li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
-					<!-- entries without drop-downs appear here -->
             </ul>
         </div>
         </div>
