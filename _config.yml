@@ -35,10 +35,10 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: b.rummens@loginconsultants.nl
+feedback_email: info@loginconsultants.nl
 # used as a contact email for the Feedback link in the top navigation bar
 
-# feedback_disable: true
+feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
