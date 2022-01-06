@@ -36,9 +36,6 @@
                 </li>
                 {% endfor %}
                 {% endfor %}
-                {% if site.feedback_disable == null or site.feedback_disable == false %}
-				{% include feedback.html %}
-				{% endif %}
 				
 				{% for entry in topnav.topnav %}
                 {% for item in entry.items %}
@@ -77,6 +74,11 @@
                     </script>
                     <!--end search-->
                 </li>
+				
+				                {% if site.feedback_disable == null or site.feedback_disable == false %}
+				{% include feedback.html %}
+				{% endif %}
+				
             </ul>
         </div>
         </div>
