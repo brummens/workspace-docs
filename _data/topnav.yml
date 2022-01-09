@@ -1,3 +1,13 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: The Project
+      external_url: /Project
+    - title: News
+      url: /news
+      
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
@@ -19,14 +29,6 @@ topnav_dropdowns:
         - title: Product 2
           url: /p2_landing_page.html
           
-## Topnav single links
-## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
-topnav:
-- title: Topnav
-  items:
-    - title: GitHub
-      external_url: https://github.com/brummens/workspace-docs
-    - title: News
-      url: /news
+
 
 # Copyright 2021 Google LLC
