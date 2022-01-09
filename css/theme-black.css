@@ -29,7 +29,7 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
     color: white;
 }
 
-.navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
+.navbar-inverse .navbar-nav>li>a:hover, a.navbar-brand:hover {
      color: #FF7900;
 }
 
@@ -56,7 +56,7 @@ a[data-toggle="tooltip"] {
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
     background-color: #000000;
-    color: #FF7900;
+    color: #ffffff;
 }
 
 /* not sure if using this ...*/
