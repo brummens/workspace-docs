@@ -110,6 +110,12 @@ li.sidebarTitle {
     background-color: #FF7900;
 }
 
-.jumbotron {
+.jumbotron-main {
      color: #000000;
+}
+
+.btn-jubotron-main {
+    color: #ffffff;
+    background-color: #FF7900;
+    border-color: #FF7900;
 }
