@@ -109,3 +109,7 @@ li.sidebarTitle {
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
     background-color: #FF7900;
 }
+
+.jumbotron {
+     color: #000000;
+}
