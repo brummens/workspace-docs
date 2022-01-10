@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: The Project
-      url: /Project
+      url: /project
     - title: News
       url: /news
       
