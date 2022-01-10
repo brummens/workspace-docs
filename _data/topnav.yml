@@ -16,10 +16,10 @@ topnav_dropdowns:
       folderitems:
         - title: Services Overview
           url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+        - title: Cloud Managed Device
+          url: /cmd_overview.html
+        - title: Managed Office 365
+          url: /mo_overview.html
     - title: Products
       folderitems:
         - title: Products Overview
