@@ -1,7 +1,7 @@
 .summary {
     color: #808080;
     border-left: 5px solid #FF7900;
-    font-size:16px;
+    font-size:16px
 }
 
 
@@ -10,54 +10,54 @@ h4 {color: #808080; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: #248ec2;
-    color: white;
+    color: white
 }
 
 .nav > li.active > a {
-    background-color: #000000;
+    background-color: #000000
 }
 
 .nav > li > a:hover {
-    background-color: #000000;
+    background-color: #000000
 }
 
 div.navbar-collapse .dropdown-menu > li > a:hover {
     background-color: #FFFFFF;
-	color: #FF7900;
+	color: #FF7900
 }
 
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
-    color: white;
+    color: white
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-lg.navbar-brand:hover {
-     color: #FF7900;
+     color: #FF7900
 }
 
 .nav li.thirdlevel > a {
     background-color: #FAFAFA !important;
     color: #4e4e4e;
-    font-weight: bold;
+    font-weight: bold
 }
 
 a[data-toggle="tooltip"] {
     color: #649345;
     font-style: italic;
-    cursor: default;
+    cursor: default
 }
 
 .navbar-inverse {
     background-color: #000000;
-    border-color: #000000;
+    border-color: #000000
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    color: #000000;
+    color: #000000
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
     background-color: #000000;
-    color: #ffffff;
+    color: #ffffff
 }
 
 /* not sure if using this ...*/
@@ -68,7 +68,7 @@ a[data-toggle="tooltip"] {
 .btn-primary {
     color: #ffffff;
     background-color: #000000;
-    border-color: #000000;
+    border-color: #000000
 }
 
 .btn-primary:hover,
@@ -90,11 +90,11 @@ body.print h3 {color: #FF7900 !important; font-size:14px;}
 body.print h4 {color: #679DCE !important; font-size:14px; font-style: italic;}
 
 .anchorjs-link:hover {
-    color: #4f7233;
+    color: #4f7233
 }
 
 div.sidebarTitle {
-    color: #FF7900;
+    color: #FF7900
 }
 
 li.sidebarTitle {
@@ -103,19 +103,19 @@ li.sidebarTitle {
     font-size:130%;
     color: #FF7900;
     margin-bottom:10px;
-    margin-left: 5px;
+    margin-left: 5px
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #FF7900;
+    background-color: #FF7900
 }
 
 .jumbotron-main {
-     color: #000000;
+     background-color: #000000
 }
 
 .btn-jumbotron-main {
     color: #ffffff;
     background-color: #FF7900;
-    border-color: #FF7900;
+    border-color: #FF7900
 }
