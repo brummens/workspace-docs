@@ -10,10 +10,14 @@
     <div class="page-content">
         <div class="wrapper">
             {{ content }}
+			
+			{{site.data.alerts.hr_faded}}
+			
+			{% include footer.html %}
         </div>
     </div>
 
-    {% include footer.html %}
+
 </body>
 {% if site.google_analytics %}
 {% include google_analytics.html %}
