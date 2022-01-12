@@ -3,8 +3,8 @@
 topnav:
 - title: Topnav
   items:
-    - title: The Project
-      url: /project
+    - title: Workspace
+      url: /workspace
     - title: News
       url: /news
       
@@ -16,10 +16,20 @@ topnav_dropdowns:
       folderitems:
         - title: Services Overview
           url: /mydoc_introduction.html
-        - title: Cloud Managed Device
-          url: /cmd_overview.html
+        - title: Managed Cloud Foundation
+          url: /mcf_overview.html
         - title: Managed Office 365
           url: /mo_overview.html
+        - title: Managed Workspace Portal
+          url: /mwp_overview.html
+        - title: Cloud Managed Device
+          url: /cmd_overview.html
+        - title: Managed Cloud Hosted Desktop
+          url: /mchd_overview.html
+Managed Cloud Hosted Apps
+Managed Detection & Response
+Device as a Service
+
     - title: Products
       folderitems:
         - title: Products Overview
