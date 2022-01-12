@@ -123,3 +123,8 @@ li.sidebarTitle {
     background-color: #FF7900;
     border-color: #FF7900
 }
+
+.row-frontpage {
+    margin-right: 0px;
+    margin-left: 0px
+}
