@@ -2,7 +2,7 @@
 title: Workspace
 sidebar: workspace_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: workspace_overview.html
+permalink: workspace.html
 toc: false
 folder: workspace
 ---
