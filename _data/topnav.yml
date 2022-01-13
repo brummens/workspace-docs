@@ -15,7 +15,7 @@ topnav_dropdowns:
     - title: Services
       folderitems:
         - title: Services Overview
-          url: /mydoc_introduction.html
+          url: /service_overview.html
         - title: Managed Cloud Foundation
           url: /mcf_overview.html
         - title: Managed Office 365
@@ -26,9 +26,12 @@ topnav_dropdowns:
           url: /cmd_overview.html
         - title: Managed Cloud Hosted Desktop
           url: /mchd_overview.html
-Managed Cloud Hosted Apps
-Managed Detection & Response
-Device as a Service
+        - title: Managed Cloud Hosted Apps
+          url: /mcha_overview.html
+        - title: Managed Detection & Response
+          url: /mdr_overview.html
+        - title: Device as a Service
+          url: /daas_overview.html
 
     - title: Products
       folderitems:
