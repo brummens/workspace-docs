@@ -1,10 +1,10 @@
 ---
-title: Project
-sidebar: project_sidebar
+title: Workspace
+sidebar: workspace_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: project.html
+permalink: workspace_overview.html
 toc: false
-folder: project
+folder: workspace
 ---
 <div class="home">
 
