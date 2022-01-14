@@ -9,7 +9,7 @@ h3 {color: #FF7900; }
 h4 {color: #808080; }
 
 .nav-tabs > li.active > a {
-.   color: #808080
+    color: #808080
 }
 
 .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
