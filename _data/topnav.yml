@@ -5,13 +5,23 @@ topnav:
   items:
     - title: Workspace
       url: /workspace
-    - title: News
-      url: /news
       
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
+
+    - title: Design
+      folderitems:
+        - title: Design Overview
+          url: /design.html
+        - title: Product 1
+          url: /p1_landing_page.html:
+        - title: Products Overview
+          url: /mydoc_introduction.html
+        - title: Product 1
+          url: /p1_landing_page.html
+
     - title: Services
       folderitems:
         - title: Services Overview
