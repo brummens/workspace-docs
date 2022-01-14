@@ -24,6 +24,8 @@ topnav_dropdowns:
 
     - title: Services
       folderitems:
+      - title: Core
+      folderitems:
         - title: Services Overview
           url: /service_overview.html
         - title: Managed Cloud Foundation
