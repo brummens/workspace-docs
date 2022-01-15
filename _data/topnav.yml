@@ -25,6 +25,7 @@ topnav_dropdowns:
     - title: Services
       folderitems:
       - title: Core
+      url: /index.html
       folderitems:
         - title: Services Overview
           url: /service_overview.html
