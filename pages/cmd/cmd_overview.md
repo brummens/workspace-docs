@@ -5,7 +5,7 @@ last_updated: Januari 5, 2022
 tags: [getting_started]
 summary: "I have used this theme for projects that I've worked on as a professional technical writer."
 sidebar: cmd_sidebar
-permalink: cmd_what_is_a_cloud_managed_device.html
+permalink: cmd_overview.html
 folder: cmd
 ---
 
