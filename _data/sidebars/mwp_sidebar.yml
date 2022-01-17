@@ -24,7 +24,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Overview
-      url: /mwp_overview.html
+      url: /mwp__overview.html
       output: web
 
     - title: What is a cloud managed device
