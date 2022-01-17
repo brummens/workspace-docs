@@ -20,7 +20,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Managed Cloud Hosted Desktop
+  - title: Cloud Hosted Desktop
     output: web, pdf
     folderitems:
     - title: Overview
