@@ -1,5 +1,5 @@
 ---
-title: What is a managed office 365
+title: What is managed office 365
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: Januari 5, 2022
 tags: [getting_started]
