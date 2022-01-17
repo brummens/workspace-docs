@@ -32,7 +32,7 @@ topnav_dropdowns:
         - title: Managed Cloud Foundation
           url: /mcf_overview.html
         - title: Managed Office 365
-          url: /mo_overview.html
+          url: /m365_overview.html
         - title: Managed Workspace Portal
           url: /mwp_overview.html
         - title: Cloud Managed Device
