@@ -1,5 +1,5 @@
 ---
-title: Workspace
+title: Orange Workspace Services
 sidebar: workspace_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: workspace.html
