@@ -1,5 +1,5 @@
 ---
-title: What is device as a service
+title: What is Device as a Service
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: Januari 17, 2022
 tags: [getting_started]
