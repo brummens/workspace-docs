@@ -1,6 +1,6 @@
 ---
 title: About Orange Workspace Services
-sidebar: workspace_sidebar
+sidebar: about_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: about.html
 toc: false
