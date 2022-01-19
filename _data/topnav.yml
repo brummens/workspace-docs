@@ -11,7 +11,7 @@ topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
 
-    - title: Services Design
+    - title: Design
       folderitems:
         - title: Design Overview
           url: /design.html
@@ -53,7 +53,7 @@ topnav_dropdowns:
           url: /esd_overview.html
         - title: Digital Employee Experience Monitoring
           url: /deem_overview.html
-        - title: Application Delivery Services
+        - title: Managed Application Delivery Services
           url: /mads_overview.html
         - title: Cloud Managed Printing
           url: /cmp_overview.html
