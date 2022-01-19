@@ -5,11 +5,11 @@ entries:
   levels: one
   folders:
 
-  - title: Workspace
+  - title: About
     output: web
     folderitems:
     - title: Overview
-      url: /workspace_overview.html
+      url: /about_overview.html
       output: web
     - title: Theme instructions
       url: /mydoc_introduction.html
