@@ -18,3 +18,6 @@ However, a lot of data is still synchronized from a traditional Windows device (
 The Modern Workplace is not the solution for all these issues, but it works better with all modern tools available within the Microsoft Cloud as it resides within the same ‘domain’. This Modern Workplace will, therefore, be joined to the Azure Active Directory where it will be managed by Intune. Within Intune, we can specify compliance rules which the end user device must match before the device will get ‘compliant’. If a device isn’t compliant, we can revoke access to all synchronized items such as Outlook, OneDrive, etc. This will force the user either to get their device compliant but still gives him or her the ability to work but web-based for the time being.
 
 Besides all the above we also can remotely wipe the device within Intune, meaning getting more control over the company data and devices which aren’t always connected to the internal network.
+
+
+#titel mick
