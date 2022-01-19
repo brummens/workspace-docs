@@ -2,9 +2,9 @@
 title: About Orange Workspace Services
 sidebar: workspace_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: workspace.html
+permalink: about.html
 toc: false
-folder: workspace
+folder: about
 ---
 <div class="home">
 
