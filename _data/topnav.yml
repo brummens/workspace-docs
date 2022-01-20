@@ -24,8 +24,8 @@ topnav_dropdowns:
 
     - title: Core Services
       folderitems:
-        - title: Services Overview
-          url: /service_overview.html
+        - title: Core Services Overview
+          url: /core_service_overview.html
         - title: Managed Cloud Foundation
           url: /mcf_overview.html
         - title: Managed Office 365
@@ -45,6 +45,8 @@ topnav_dropdowns:
 
     - title: Support Services
       folderitems:
+        - title: Support Services Overview
+          url: /support_services_Overview.html  
         - title: Managed Identity and Access
           url: /iam_overview.html
         - title: Managed Infrastructure Services
