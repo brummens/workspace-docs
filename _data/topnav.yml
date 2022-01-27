@@ -22,39 +22,43 @@ topnav_dropdowns:
         - title: Product 1
           url: /p1_landing_page.html
 
-    - title: Core Services
+    - title: Workspace Services
       folderitems:
-        - title: Core Services Overview
-          url: /core_service_overview.html
+        - title: Workspace Services Overview
+          url: /workspace_service_overview.html
         - title: Managed Office 365
           url: /m365_overview.html
         - title: Managed Workspace Portal
           url: /mwp_overview.html
         - title: Cloud Managed Device
           url: /cmd_overview.html
-        - title: Managed Cloud Hosted Desktop
-          url: /mchd_overview.html
-        - title: Managed Cloud Hosted Apps
-          url: /mcha_overview.html
+        - title: Managed Cloud Hosted Desktop & Apps
+          url: /mchda_overview.html
+        - title: Managed Local & Office Lan/WiFi
+          url: /mlo_overview.html
         - title: Managed Detection & Response
           url: /mdr_overview.html
         - title: Device as a Service
           url: /daas_overview.html
-
-    - title: Support Services
-      folderitems:
-        - title: Support Services Overview
-          url: /support_services_Overview.html  
-        - title: Managed Cloud Foundation
-          url: /mcf_overview.html
-        - title: Managed Identity and Access
-          url: /iam_overview.html
+        - title: Teams Operator Connect
+          url: /toc_overview.html
         - title: Employee Support Desk
           url: /esd_overview.html
+
+    - title: Shared Services
+      folderitems:
+        - title: Shared Services Overview
+          url: /shared_services_overview.html  
+        - title: Managed Cloud Foundation Services
+          url: /mcfs_overview.html
+        - title: Managed Identity and Access
+          url: /iam_overview.html
         - title: Digital Employee Experience Monitoring
           url: /deem_overview.html
         - title: Managed Application Delivery Services
           url: /mads_overview.html
+        - title: Employee Adoption Service
+          url: /eas_overview.html
         - title: Cloud Managed Printing
           url: /cmp_overview.html
         
