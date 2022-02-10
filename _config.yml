@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Workspace Services
 
 feedback_email: info@loginconsultants.nl
 # used as a contact email for the Feedback link in the top navigation bar
@@ -84,7 +84,6 @@ defaults:
       layout: "page"
       search: true
       tooltip: true
-
   -
     scope:
       path: ""
